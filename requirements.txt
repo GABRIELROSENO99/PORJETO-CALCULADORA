@@ -1,0 +1,4 @@
+ipywidgets 
+requests 
+matplotlib 
+voila
